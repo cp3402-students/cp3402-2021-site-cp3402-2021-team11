@@ -36,4 +36,6 @@ Step 7: Creating new branches. Firstly creating a new branch just select the cur
 		you are working on, most of the time you will select the new branch you are working on. Once you have done this \
 		you will have your new branch which you can work on. 
 		
-Step 8: 
+Step 8: Editing FIles and staying up to date. It is always important to make sure the files you are working on are up to date,
+		to do this select the repository drop down at the very top of the application and select 'pull'. This will pull any
+		changes to you local copies and apply them
