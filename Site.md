@@ -1,10 +1,10 @@
 Structure:
 
 How do they add new content– as a page or a post?
-To add new contet to the this website a page will be used. Each page contains different information relating to each pages requirement (eg. location page dispalys all the location detials for the Jazz Club)
+The way content is displayed on this site is through the use of pages. Having the content displayed this way was chosen becasue each page will contains different information that will be relivant to that page's call to action. This allowed for a more streamline and reduce clutter on the page. 
 
-The facebook events that appear on the home pages are edited via the HTML code that is proveded form this page: https://developers.facebook.com/docs/plugins/page-plugin/
-This custom HTML code tha tis presented is auto generated, the only requirement is that the event be published on the facebook page hosting the event. Once the HTML code is generated and copied, then a new block is created on the page that the event is to be posted on. The block needs to be a "Custom HTML" block that allows HTML code to be pased into it. Custom HTML is really easy to use and helpful.
+On the home screen there is a section on the site that dispalys Facebook event they are edited via the use of a custom HTML code block. The actual HTML cose is proveded form this page: https://developers.facebook.com/docs/plugins/page-plugin/
+The only thing thagt is required for the events to be shown is that the event be published on the facebook page hosting the event. Once the HTML code is generated and copied it is added to the custom HTML code block which then displays the event on the website. 
 
 List and describe how each plug in works 
 
