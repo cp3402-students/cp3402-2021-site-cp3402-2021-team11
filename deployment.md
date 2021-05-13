@@ -12,6 +12,14 @@ Step 1: Send the theme files to a zip file
 Step 2: Upload the theme to the live site  
 Step 3: Apply theme  
 
+**Pushing and Pulling from Local development to Live Site**  
+WP Migrate DB was used to push and pull changes from the staging site to the local development and to the live site  
+Step 1: go to tools in WordPress and select WP Migrate DB  
+Step 2: Select Push/Pull from the migrate tab  
+Step 3: go to settings tab of WP Migrate DB on the website you with to push/pull from and copy the connection info  
+Step 4: make sure for permissions that the relative one is selected  
+Step 5: Paste the Connection Info into the migrate tab and select connect  
+
 **Updating md Files on Github**  
 Step 1: Press edit file  
 Step 2: Update file  
