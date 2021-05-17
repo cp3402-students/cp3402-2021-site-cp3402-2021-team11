@@ -22,4 +22,4 @@ How to edit the plugins content (if required)
 
 Explain to the client’s site maintainer how the site is organised
 
-How to maintain the site
+How to maintain the site 
