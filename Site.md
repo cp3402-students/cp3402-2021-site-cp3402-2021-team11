@@ -11,7 +11,14 @@ List and describe how each plug in works
 MailPoet plugin:
 The MailPoet plugin allows new members or existing members to sign up to a recieve newsletters. 
 
+Elementor
+*DESCRIBE ELEMENTOR AND ITS FUCNTION*
+
+
 How to edit the plugins content (if required)
+*TALK ABOUT MAILPOET USES THE NEWSLETTER FEATURE WICH CAN BE EDITED*
+
+*TALK ABOUT ELEMENTOR'S USE FOR THE THEME*
 
 Explain to the client’s site maintainer how the site is organised
 
