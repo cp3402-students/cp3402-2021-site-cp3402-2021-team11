@@ -1,19 +1,20 @@
-Over View of The Theme
+# Overview of the Theme
 
-Features:
+### Summary  
+The theme aimed to increase the usability of all pages on the website. These changes included colour themes and Banners and affected all pages. 
 
-Features of the website were implemented to make the website user friendly. The sign Up button feature was placed on the home page to capture the users attention. Instead of having a link in a Text form, a button was used to make the sign up option visible to the visitors. The naviagtion bar and Menu labels were decided according to the content. A web form was designed to allow visitors to get in contact and sign up for membership with Townsville Jazz club. 
+These chages include a membership form, sign-up button and a navigation menu. The sign-up button was placed on the Home page as our call to action and was thus designed to captre attetion by being large and bright. To each page, menu labels were added to allow for easy navigation. 
 
-- Membership Form.
+
+Features of the website were implemented to make the website user friendly. The sign Up button feature was placed on the home page to capture the users attention. Instead of having a link in a Text form, a button was used to make the sign up option visible to the visitors. The naviagtion bar and Menu labels were decided according to the content. A web form was designed to allow visitors to get in contact and sign up for membership with Townsville Jazz club.
+- Banner.
 - Sign Up Button.
-- Home, Contact Us, Weekly Events, Membership, Location and Bands Page.
+- Colouring theme
 
-Files that need editing 
-
+### Files that need editing  
 Information is key and updating of certain files in the website is important to make sure members and visitors are up to date with with key events and details. Details such as Weekly events, Contact details and the Newsletter will be the main files which will need editing to keep visitors and member up to date with the latest Townsville Jazz Clubs events. 
 
-Design Decision/Colours
-
+### Design Decision/Colours  
 Colors:
 - Purple and Yellow
 - White
