@@ -5,12 +5,6 @@ Step 3: Install vagrant plugins Vagrant-hostupdater, Vagrant-triggers and Vagran
 Step 4: Clone Varying Vagrant Vagrants (VVV) from their github page to a local directory  
 Step 5: Setup VVV with virtual box  
 Step 6: Connect local VVV repository to github  
-  
-**Pushing Local Development Theme to Live Site**  
-Costi is in charge of Theme development and makes changes to it from his local development site  
-Step 1: Send the theme files to a zip file  
-Step 2: Upload the theme to the live site  
-Step 3: Apply theme  
 
 **Pushing and Pulling from Local development to Live Site**  
 WP Migrate DB was used to push and pull changes from the staging site to the local development and to the live site  
