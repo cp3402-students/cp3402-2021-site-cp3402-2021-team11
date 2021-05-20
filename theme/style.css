@@ -698,9 +698,12 @@ K
 .main-navigation li {
 	/*This the container around each button */
 	position: center;
-
 	align-content: center;
 	margin: auto;
+	background-color: silver;
+	border-color: #3d2269;
+	border-style: solid;
+	border-width: medium;
 
 }
 
@@ -763,7 +766,9 @@ K
 
 .post,
 .page {
+	/*This changes the overall background colour*/
 	margin: 0 0 1.5em;
+	background-color: #e3d088;
 }
 
 .updated:not(.published) {
