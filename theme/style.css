@@ -704,6 +704,8 @@ K
 	border-color: #3d2269;
 	border-style: solid;
 	border-width: medium;
+	padding: 10px;
+	border-radius: 15px;
 
 }
 
