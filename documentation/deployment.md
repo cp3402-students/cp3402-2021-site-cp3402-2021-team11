@@ -1,6 +1,4 @@
-## Setting Up Live Environment
-TODO 
-
+ 
 ## Setting Up Local Development
 Step 1: Install Oracle Virtual Box 6.1  
 Step 2: Install Vagrant 2.2.15  
