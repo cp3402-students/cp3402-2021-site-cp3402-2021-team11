@@ -4,7 +4,8 @@
 Our theme is featured on all pages and affects fonts, banners and our custom green button on the homepage. Its aim is to increase readibility and visual appeal, while also highlighting our call to action. One example of this is the bright yellow "Townsville Jazz Club" title with membership prices below it which directs users to our call to action by contrasting the rest of the page. We applied a similar principle when designing the green sign-up button on the Home page.
 
 ### Files that need editing  
-Information is key and updating of certain files in the website is important to make sure members and visitors are up to date with with key events and details. Details such as Weekly events, Contact details and the Newsletter will be the main files which will need editing to keep visitors and member up to date with the latest Townsville Jazz Clubs events. 
+Information is key and updating of certain files in the website is important to make sure members and visitors are up to date with with key events and details. Details such as Weekly events, Contact details and the Newsletter will be the main files which will need editing to keep visitors and member up to date with the latest Townsville Jazz Clubs events. To update the appearance of the theme Styles.css file is used to control the color,fonts, size of text, spacing between elements and how elements are positioned in the theme. To change this elements comments "//" have been placed in the file to make future changes. 
+
 
 ### Design Decision/Colours  
 Colors:
